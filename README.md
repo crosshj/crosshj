@@ -1,11 +1,18 @@
-- 🌞 I’m fresh on ...   
-[fiug](https://github.com/crosshj/fiug), a tool/system which helps create, maintain, and organize code.
+Here are some of the major projects I have worked on outside of my day job:
 
-- 🌛 Not so fresh on ...    
-[cents](https://github.com/crosshj/cents), a personal finance tool which does what you might expect it to do.   
-[ha-bridge-js](https://github.com/crosshj/ha-bridge-js), a home automation tool which does what you might expect it to do.   
-[footils](https://github.com/crosshj/footils), a kitchen sink js toolbox which helps me avoid writing duplicate code.   
-[async-tree](https://github.com/crosshj/async-tree), an async library extension aimed at cleanly handling a reasonably niche situation.   
+First up has been my primary focus outside of work for more than a year now.
+
+[fiug](https://github.com/crosshj/fiug), a new, cloud IDE without the cloud
+
+And here are some past projects which I have not dusted off for a while.
+
+[cents](https://github.com/crosshj/cents), a personal finance tool
+
+[ha-bridge-js](https://github.com/crosshj/ha-bridge-js), a home automation tool, a rough javascript rewrite of a Java tool
+
+[async-tree](https://github.com/crosshj/async-tree), an async-lib extension aimed at cleanly handling event chains - my first npm module
+
+[footils](https://github.com/crosshj/footils), a kitchen sink js toolbox which needs more love - my second npm module
 
 <!--
 **crosshj/crosshj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
