@@ -1,7 +1,7 @@
 Hello, here are some of the major projects I have worked on outside of my day job.    
 <br/>
    
-My primary focus (outside of work) for more than a year now has been fiug
+My primary focus for more than a year now has been fiug.
 
 [fiug](https://github.com/crosshj/fiug), a cloud IDE with less cloud.   
 <br />
