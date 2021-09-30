@@ -1,10 +1,12 @@
-Here are some of the major projects I have worked on outside of my day job:
+Hello, here are some of the major projects I have worked on outside of my day job.    
+<br/>
+   
+My primary focus (outside of work) for more than a year now has been fiug, a cloud IDE with less cloud.
 
-First up has been my primary focus outside of work for more than a year now.
+[fiug](https://github.com/crosshj/fiug)   
+<br />
 
-[fiug](https://github.com/crosshj/fiug), a new, cloud IDE without the cloud
-
-And here are some past projects which I have not dusted off for a while.
+And here are some past projects begging to be given the same kind of attention.
 
 [cents](https://github.com/crosshj/cents), a personal finance tool
 
