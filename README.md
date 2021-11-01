@@ -3,7 +3,7 @@ Hello, here are some of the major projects I have worked on outside of my day jo
    
 My primary focus for more than a year now has been fiug.
 
-[fiug](https://github.com/crosshj/fiug), a cloud IDE with less cloud.   
+[fiug.dev](https://github.com/fiugd/fiug), a cloud IDE with less cloud.   
 <br />
 
 And here are some past projects begging to be given the same kind of attention.
